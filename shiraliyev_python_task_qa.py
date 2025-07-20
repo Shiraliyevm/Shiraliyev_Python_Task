@@ -26,7 +26,7 @@ def check_name_condition():
     Prompts the user to enter a name.
     If the name matches 'John', it prints 'Hello, John', otherwise it prints 'There is no such name'.
     """
-    name_input = input("Please enter a name (e.g., John): ")
+    name_input = input("Please enter a name (e.g., Elshan): ")
     if name_input == "John":
         print("Hello, John")
     else:
