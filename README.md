@@ -16,7 +16,7 @@ This Python script solves the algorithmic part of the Andersen QA Automation Tra
 1.  Ensure you have Python installed on your system.
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/Shiraliyevm/Shiraliyev_Python_Task.git](https://github.com/Shiraliyevm/Shiraliyev_Python_Task.git)
+    git clone https://github.com/Shiraliyevm/Shiraliyev_Python_Task.git
     ```
 3.  Navigate to the project directory:
     ```bash
